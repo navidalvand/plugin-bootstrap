@@ -1,4 +1,4 @@
-Unmaintained: this plugin is currently part of @elizaos/eliza
+# Unmaintained: this plugin is currently part of @elizaos/eliza
 
 # @elizaos/plugin-bootstrap
 
