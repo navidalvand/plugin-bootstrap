@@ -1,3 +1,5 @@
+Unmaintained: this plugin is currently part of @elizaos/eliza
+
 # @elizaos/plugin-bootstrap
 
 A plugin providing core functionality and basic actions for ElizaOS agents.
